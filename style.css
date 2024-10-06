@@ -1,0 +1,182 @@
+body {
+    background-image: url("https://statemag.state.gov/wp-content/uploads/2019/04/shutterstock_55043605.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.more-container {
+    display: flex;
+    align-items: center;
+}
+
+
+.name-surname {
+    margin-right: 900px;
+    margin-left: 20px
+}
+
+.menu-space {
+    word-spacing: 25px;
+}
+
+.section-1 {
+    text-decoration: none;
+}
+
+.section-2 {
+    text-decoration: none;
+}
+
+.section-3 {
+    text-decoration: none;
+}
+
+.section-4 {
+    text-decoration: none;
+}
+
+.introduction-container {
+    display: flex;
+    align-items: center;
+}
+
+.greeting {
+    font-size: 50pt;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.box-one {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.box-two {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.skills-container {
+    width: 1000px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #003459;
+    color: #FFFFFF;
+}
+
+
+
+.box-three {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.projects-container {
+    display: flex;
+}
+
+.projects {
+    text-align: center;
+    color: black;
+}
+
+.project-1 {
+    width: 800px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #003459;
+    color: #FFFFFF;
+    margin-left: 100px;
+    border-radius: 10px;
+    transition: all 200ms ease-in-out;
+}
+
+.project-1:hover {
+    filter: contrast(70%);
+    transform: scale(1.1);
+}
+
+.project-2 {
+    width: 800px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #003459;
+    color: #FFFFFF;
+    margin-left: 100px;
+    border-radius: 10px;
+    transition: all 200ms ease-in-out;
+}
+
+.project-2:hover {
+    filter: contrast(70%);
+    transform: scale(1.1);
+}
+
+.descr-image {
+    display: flex;
+    margin-left: 50px;
+}
+
+.project-name {
+    margin-left: 50px;
+}
+
+.box-four {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-details {
+    width: 1000px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #003459;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.download-button {
+    border-radius: 25px;
+    margin: 0 auto;
+    display: block;
+    background-color: #334EAC;
+    border: 1px solid #885df1;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 16px 24px;
+    text-decoration: none;
+    transition: all 200ms ease;
+}
+
+.download-button:hover {
+    color: #334EAC;
+    background: #00171F;
+}
+
+footer {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.linkedin-direct {
+    text-decoration: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.linkedin-direct:hover {
+    text-decoration: underline;
+}
